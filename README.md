@@ -4,4 +4,5 @@
 
 ## Credits
 
-- Author - [Muhammad Rafi Andeo Praja](https://github.com/RafiAndeo)
+- Author - [PySimpleGUI](https://github.com/PySimpleGUI)
+- Website - [https://www.pysimplegui.org/en/latest/readme/](https://www.pysimplegui.org/en/latest/readme/)
