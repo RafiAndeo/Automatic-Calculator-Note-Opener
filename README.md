@@ -5,4 +5,3 @@
 ## Credits
 
 - Author - [Muhammad Rafi Andeo Praja](https://github.com/RafiAndeo)
-- Website - [https://www.pysimplegui.org/en/latest/](https://www.pysimplegui.org/en/latest/)
